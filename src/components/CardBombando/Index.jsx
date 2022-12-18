@@ -70,6 +70,9 @@ export default function CardBombando() {
         </CardContent>
       <CardActions>
       </CardActions>
+      <Typography sx={{color: "red"}}>
+        Desenvolvido por Pedro Moura - 2022
+      </Typography>
     </Card>
   );
 }

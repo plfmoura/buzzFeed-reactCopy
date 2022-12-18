@@ -57,8 +57,8 @@ export default function Home() {
   return (
     <>
         <NavBar/>
-        <Grid container rowSpacing={4} spacing={2} width="90%" sx={{margin: "0 auto"}}>
-            <Grid item xs={8}>
+        <Grid container rowSpacing={4} spacing={2} width="84%" sx={{margin: "0 auto 0 5.5rem"}}>
+            <Grid item xs={8} >
                 <CardArticle />
                 {
                   miniArticleTopics.map((responseTopics) => (
@@ -72,7 +72,7 @@ export default function Home() {
                   ))
                 }
             </Grid>
-            <Grid item xs={4} >
+            <Grid item xs={4}>
               <Container> 
                 <CardSocial />
                 <CardBombando />

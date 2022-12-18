@@ -9,16 +9,16 @@ import Style from './CardArticle.module.css'
 
 export default function CardArticle() {
 
-  let topicTitle = "10 mimos fofos para quem é mãe ou pai de pet"
-  let topicSubTitle = "Já pode comprar para o amigo secreto da firma ou Natal da família"
-  let topicAutor = "Marcia Lopes"
+  let topicTitle = "Argentina se torna tricampeã mundial - e a Copa do Mundo do Catar é de Lionel Messi"
+  let topicSubTitle = "Nosso hermano é o CARA!"
+  let topicAutor = "Diego Bargas"
   let topicTime = "Há 5 horas"
   return (
     <Card sx={{ width: 760, height: 500, marginLeft: -2, borderRadius: 2}} className={Style.cardContent}>
       <CardMedia
         component="img"
         height="100%"
-        image="https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-list-image/png/e0d226f232a7e9e8c1977c8c08941328.png"
+        image="https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-list-image/jpeg/b9af20d9cc9d93691894591705855d6f.jpg"
         alt="green iguana"
         sx={{padding: 2.5}}
       />
