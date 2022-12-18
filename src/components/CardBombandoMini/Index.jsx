@@ -32,7 +32,7 @@ export default function CardBombandoMini(props) {
         <div className={Style.ImageNumber}>
             <p>{props.id + 1}</p>
         </div>
-        <Typography variant="subtitle1" component="div" sx={{fontWeight: 600}}>
+        <Typography variant="subtitle1" component="div" sx={{ fontWeight: 600, lineHeight: 1.2, marginTop: 1}}>
             {props.titulo}
         </Typography>
         <Typography sx={{ fontSize: 12 }} color="text.secondary" gutterBottom>
