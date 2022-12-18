@@ -1,0 +1,31 @@
+.cardContainer {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between;
+}
+
+.buttonsContainer{
+    height: 110%;
+}
+
+.socialButton {
+    width: 110%;
+    height: 2.8rem;
+    display: flex;
+    justify-content: space-between;
+    text-transform: none;
+    text-decoration: none;
+}
+
+.socialButton:nth-child(1) {
+    background-color: #4267B2;
+}
+.socialButton:nth-child(2) {
+    background-color: #1DA1F2;
+}
+.socialButton:nth-child(3) {
+    background-color: #FF0000;
+}
+.socialButton:nth-child(4) {
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+}
