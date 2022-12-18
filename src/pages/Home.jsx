@@ -1,6 +1,8 @@
 import { Grid } from '@mui/material'
+import { Container } from '@mui/system'
 import React from 'react'
 import CardArticle from '../components/CardArticle/Index.jsx'
+import CardBombando from '../components/CardBombando/Index.jsx'
 import CardSocial from '../components/CardSocial/Index.jsx'
 import NavBar from '../components/NavBar/NavBar.jsx'
 import './Home.module.css'
@@ -13,8 +15,11 @@ export default function Home() {
             <Grid item xs={8}>
                 <CardArticle />
             </Grid>
-            <Grid item xs={4}>
+            <Grid item xs={4} >
+              <Container> 
                 <CardSocial />
+                <CardBombando />
+              </Container>
             </Grid>
         </Grid>
     </>
