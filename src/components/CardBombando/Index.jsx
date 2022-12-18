@@ -47,7 +47,7 @@ export default function CardBombando() {
     ]
 
   return (
-    <Card sx={{ width: 380, marginTop: 4, display: "flex", flexDirection: "column" , alignItems: "center"}}>
+    <Card sx={{ width: 380, marginTop: 4, display: "flex", flexDirection: "column" , alignItems: "center", borderRadius: 2}}>
         <Box 
             sx={{backgroundColor: "#E41978",
                     width: "100%",
@@ -61,7 +61,7 @@ export default function CardBombando() {
             {
                 topNewsBombando.map((bombando, key) => (
                     <CardBombandoMini 
-                        key={key}
+                        id={key}
                         image={bombando.imagem}
                         titulo={bombando.titulo}
                         sub={bombando.sub}/>

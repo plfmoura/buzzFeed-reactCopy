@@ -6,6 +6,7 @@ import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import { CardMedia } from '@mui/material';
+import Style from './CardBombando.module.css'
 
 const bull = (
   <Box
@@ -26,8 +27,11 @@ export default function CardBombandoMini(props) {
           image={props.image}
           alt="green iguana"
 
-          sx={{ }}
+          sx={{zIndex: "0", position: "relative" }}
         />
+        <div className={Style.ImageNumber}>
+            <p>{props.id + 1}</p>
+        </div>
         <Typography variant="subtitle1" component="div" sx={{fontWeight: 600}}>
             {props.titulo}
         </Typography>

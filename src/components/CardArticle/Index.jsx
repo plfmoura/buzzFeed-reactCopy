@@ -14,7 +14,7 @@ export default function CardArticle() {
   let topicAutor = "Marcia Lopes"
   let topicTime = "Há 5 horas"
   return (
-    <Card sx={{ width: 760, height: 500, marginLeft: -2}} className={Style.cardContent}>
+    <Card sx={{ width: 760, height: 500, marginLeft: -2, borderRadius: 2}} className={Style.cardContent}>
       <CardMedia
         component="img"
         height="100%"
