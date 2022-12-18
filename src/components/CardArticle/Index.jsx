@@ -9,8 +9,8 @@ import Style from './CardArticle.module.css'
 
 export default function CardArticle() {
 
-  let topicTitle = "10 crushes da final da Copa do Mundo do Catar"
-  let topicSubTitle = "Aposto que você adoraria marcar cada um deles!"
+  let topicTitle = "10 mimos fofos para quem é mãe ou pai de pet"
+  let topicSubTitle = "Já pode comprar para o amigo secreto da firma ou Natal da família"
   let topicAutor = "Marcia Lopes"
   let topicTime = "Há 5 horas"
   return (
@@ -18,7 +18,7 @@ export default function CardArticle() {
       <CardMedia
         component="img"
         height="100%"
-        image="https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-highlight-image/png/0d5bccea85628376611a735d68558dd2.png"
+        image="https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-list-image/png/e0d226f232a7e9e8c1977c8c08941328.png"
         alt="green iguana"
         sx={{padding: 2.5}}
       />
