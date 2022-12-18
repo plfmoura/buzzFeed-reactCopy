@@ -112,7 +112,7 @@ let trendTopics = ["Testes", "Copa do Mundo", "Tv e Filmes", "Celebridades", "Po
 
           {/* logo dos trend topics */}
           <Link>
-            <img src="./public/BuzzFeed-symbol.png" alt="" width="45em"/>
+            <img src="public/BuzzFeed-symbol.png" alt="" width="45em"/>
           </Link>
         </Box>
       </AppBar>

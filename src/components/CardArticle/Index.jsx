@@ -32,7 +32,7 @@ export default function CardArticle() {
       </CardContent>
       <CardActions sx={{margin: "-1rem 0 0 0", padding: "1rem"}}>
         <Link sx={{mr: 1}}>
-          <img src="./public/BuzzFeed-symbol.png" alt="" width="45em"/>
+          <img src="public/BuzzFeed-symbol.png" alt="" width="45em"/>
         </Link>
         <Box sx={{display: "flex", flexDirection: "column", alignItems: "flex-start"}}>
           <Typography variant='subtitle2'>{topicAutor}</Typography>
