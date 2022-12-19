@@ -57,12 +57,13 @@ export default function Home() {
   return (
     <>
         <NavBar/>
-        <Grid container rowSpacing={4} spacing={2} width="84%" sx={{margin: "0 auto 0 5.5rem"}}>
+        <Grid container rowSpacing={4} spacing={0} width="60%" sx={{margin: "0 auto"}}>
             <Grid item xs={8} >
                 <CardArticle />
                 {
-                  miniArticleTopics.map((responseTopics) => (
+                  miniArticleTopics.map((responseTopics, key) => (
                     <CardArticleMini 
+                      key={key}
                       title={responseTopics.titulo}
                       sub={responseTopics.sub}
                       image={responseTopics.image}

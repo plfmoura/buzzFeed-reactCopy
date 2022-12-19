@@ -10,6 +10,8 @@ import SearchIcon from '@mui/icons-material/Search';
 import LogoNavBar from '../LogoNavBar/Index';
 import { Link } from '@mui/material';
 import Style from './NavBar.module.css'
+import { useNavigate } from 'react-router-dom';
+import Seach from '../../pages/Seach';
 
 const Search = styled('div')(({ theme }) => ({
   position: 'relative',
@@ -55,6 +57,12 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 
 export default function NavBar() {
 
+  let navigate = useNavigate(); 
+  const routeChange = (value) =>{ 
+    let path = value; 
+    navigate(path);
+  }
+
 let trendTopics = ["Testes", "Copa do Mundo", "Tv e Filmes", "Celebridades", "Política", "Celebridades","Política", "🏳️‍🌈BuzzQueer","BuzzGeek","BuzzShe","🗣Vozes","Tasty Demais","Shopping"]
 
   return (
@@ -79,11 +87,11 @@ let trendTopics = ["Testes", "Copa do Mundo", "Tv e Filmes", "Celebridades", "Po
             >
               <MenuIcon sx={{color: 'black', fontSize: "2.4rem"}}/>
             </IconButton>
-
-            <LogoNavBar />
+            
+            <LogoNavBar onClick={routeChange('/')} />
 
             <Search>
-              <SearchIcon sx={{color: 'black'}}/>
+              <SearchIcon onClick={routeChange('/seach')} sx={{color: 'black', transform: 'rotate(90deg)'}}/>
             </Search>
           </Toolbar>
 
