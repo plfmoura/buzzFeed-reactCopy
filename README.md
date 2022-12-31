@@ -23,7 +23,7 @@ Recebi gratuito um curso de Angular, por curiosidade fui procurar saber qual era
 
 <img src="https://www.imagemhost.com.br/images/2022/12/18/final.png" height="50%"/>
 
-<a href="buzz-feed-react-copy-2i248mw14-plfmoura.vercel.app">Link do Projeto hospedado no Vercel</a>
+<a href="https://buzz-feed-react-copy.vercel.app/">Link do Projeto hospedado no Vercel</a>
 
 (Ainda não foi feita a responsividade.)
 </div>
