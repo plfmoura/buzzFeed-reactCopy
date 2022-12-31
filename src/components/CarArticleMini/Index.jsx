@@ -8,13 +8,25 @@ import { Box, Link } from '@mui/material';
 
 export default function CardArticleMini(props) {
   return (
-    <Card sx={{ width: 760, minHeight: 200, marginLeft: -2, borderRadius: 2, marginTop: 4 }}>
+    <Card sx={{ width: {
+      xs: 100,
+      sm: 600,
+      md: 700,
+      lg: 750,
+      xl: 800
+      }, minHeight: 200, borderRadius: 2, marginTop: 4, ml: -1.8 }}>
       <CardActionArea sx={{ display: "flex", justifyContent: "left", alignItems: "center", padding: 2 }}>
         <CardMedia
           component="img"
           image={props.image}
           alt={props.title}
-          sx={{width: 320, marginTop: .7, marginLeft: .3}}
+          sx={{width: {
+            xs: 100,
+            sm: 250,
+            md: 250,
+            lg: 250,
+            xl: 300
+            }, marginTop: .7, marginLeft: .3}}
         />
         <Container sx={{display: "flex", flexDirection: "column" }}>
             <CardContent sx={{height: "10rem", mt: 0}}>

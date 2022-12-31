@@ -13,7 +13,20 @@ import { UilInstagram } from '@iconscout/react-unicons'
 
 export default function CardSocial() {
   return (
-    <Card sx={{ width: 380, height: 310, padding: ".2rem", borderRadius: 2}} className={Style.cardContainer}>
+    <Card sx={{ 
+      width: {
+      xs: 0,
+      sm: 0,
+      md: 0,
+      lg: 370,
+      xl: 400
+      }, 
+      height: {
+        xs: 0,
+        sm: 0,
+        md: 0, 
+        lg: 310
+        }, padding: ".2rem", borderRadius: 2}} className={Style.cardContainer}>
       <CardContent>
         <Typography sx={{ fontSize: 17, marginBottom: 2}} gutterBottom >
           Redes sociais do BuzzFeed Brasil

@@ -1,0 +1,279 @@
+{
+    "topics": 
+    [
+        {
+            "id": 1,
+            "titulo": "Mostre o quanto você conhece o seu filho e descubra o presente ideal para o Dia das Crianças",
+            "sub": "Filhos, afilhados, sobrinhos, crianças queridas...",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/fe2a6be2930c7b15dd9d4ab718778981.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        }, 
+        {
+            "id": 2,
+            "titulo": "10 itens para comemorar o Dia do Sorvete",
+            "sub": "Hoje é o Dia do Sorvete. Vem ver nossa seleção de sabores!",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/0c56704a4031fbea1850ade465b9a905.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 3,    
+            "titulo": "7 momentos em que o cheirinho do seu amor te faz sorrir",
+            "sub": "Sentir o perfume de quem a gente gosta é maravilhoso porque...",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/aabd8066d8dfb6574ba12e5872c15937.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        }, 
+        {
+            "id": 4,
+            "titulo": "10 itens que desperta o estudante em você",
+            "sub": "O período de volta às aulas mexe com todos os...",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/d9a696cc08323b689f68982da35e36f3.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 5,
+            "titulo": "10 grande achados do Prime Day",
+            "sub": "Só ofertona!",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/5e6b266eb7bdef1568e64c80718cd745.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        }, 
+        {
+            "id": 6,
+            "titulo": "9 acessórios para deixar sua casa muito conectada",
+            "sub": "Tudo na palma da sua mão e ao alcance da voz...",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/jpeg/a8e9177df46f7a4e6497cd783a0df57b.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 7,
+            "titulo": "Show de Maiara e Maraisa é interrompido às pressas após confusão e tiroteio",
+            "sub": "Assustadas, as irmãs saíram do palco e não retornaram mais.",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/jpeg/be229068aa160e9e52ca9f087676b81f.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 8,
+            "titulo": "Final da Copa do Mundo entre França e Argentina trará uma batalha de gigantes",
+            "sub": "E os parisienses fazem a festa.",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/aaf2f2f4b1e7e6db45660d7ad50b7a2b.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 9,
+            "titulo": "As 13 imagens mais marcantes da Copa do Mundo do Catar - até agora",
+            "sub": "Nem todas são felizes, ok?!",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/76817765bbd4eba6a4a5b4eb4b48fcbf.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 10,
+            "titulo": "Cabe a você decidir qual é o melhor uniforme da Copa do Mundo do Catar!",
+            "sub": "Um mais lindo que o outro.",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/93412d1e84936110037cefef567d68ce.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 11,
+            "titulo": "Você lembra qual foi a logo de cada governo federal?",
+            "sub": "A crise também é estética.",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/e23faef3eb3f828c3d8eecc8ef658e4e.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 12,
+            "titulo": "Os gringos estão chocados com a forma que os brasileiros se cumprimentam",
+            "sub": "Você é time tapinha nas costas ou joinha?",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/67f6240a22bb863c775401db5694757d.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 13,
+            "titulo": "17 personagens negros icônicos que marcaram nossa infância",
+            "sub": "Onde nós estaríamos sem ícones como Penny, Will e Kel?",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/buzz-images/jpeg/e1b669a88050aaa69d3acc19cca61a63.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 14,
+            "titulo": "Fizemos o currículo do Henry Cavill, quantas obras com ele você já viu?",
+            "sub": "Já pensou ter um CV desses?",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/f1317a9f25208cb7968f48c4645e61e5.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 15,
+            "titulo": "O que as visitas não podem fazer em casa? Este é o debate do dia!",
+            "sub": "Nada de colocar o pé no sofá!",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/7f86247747d4fb2a9c6ab9bc3dedb03e.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 16,
+            "titulo": "22 histórias de terror que não vão te deixar dormir à noite",
+            "sub": "Os fantasmas estão em vários lugares nestas...",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/buzz-images/jpeg/8b20f4077fc5d55488f137097c8545d5.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 17,
+            "titulo": "As 20 piadas ruins mais engraçadas de todos os tempos",
+            "sub": "Prontinhas pro WhatsApp.",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/buzz-images/jpeg/d83e497b2ddd1ef301676e352093607d.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 18,
+            "titulo": "Você é mais Sonho de Valsa ou Ouro Branco?",
+            "sub": "Pequenos prazeres.",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/837358cc54482f02818e5eddfed5c198.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 19,
+            "titulo": "O quanto você gosta de Natal?",
+            "sub": "Então é Natal... E o que você acha?",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/buzz-images/jpeg/5aa76b80b07eb4662703b81bb9f74966.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 20,
+            "titulo": "Quantos filmes do Jake Gyllenhaal você já assistiu?",
+            "sub": "Um ator que amamos DEMAIS!",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-list-image/gif/9e337dc19ab5a09d9f6672613fa0d603.gif",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 21,
+            "titulo": "10 itens para comemorar o Dia do Sorvete",
+            "sub": "Hoje é o Dia do Sorvete. Vem ver nossa seleção de sabores!",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/0c56704a4031fbea1850ade465b9a905.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 22,    
+            "titulo": "7 momentos em que o cheirinho do seu amor te faz sorrir",
+            "sub": "Sentir o perfume de quem a gente gosta é maravilhoso porque...",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/aabd8066d8dfb6574ba12e5872c15937.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        }, 
+        {
+            "id": 23,
+            "titulo": "10 itens que desperta o estudante em você",
+            "sub": "O período de volta às aulas mexe com todos os...",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/d9a696cc08323b689f68982da35e36f3.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 24,
+            "titulo": "22 histórias de terror que não vão te deixar dormir à noite",
+            "sub": "Os fantasmas estão em vários lugares nestas...",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/buzz-images/jpeg/8b20f4077fc5d55488f137097c8545d5.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 25,
+            "titulo": "10 grande achados do Prime Day",
+            "sub": "Só ofertona!",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/5e6b266eb7bdef1568e64c80718cd745.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        }, 
+        {
+            "id": 26,
+            "titulo": "9 acessórios para deixar sua casa muito conectada",
+            "sub": "Tudo na palma da sua mão e ao alcance da voz...",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/jpeg/a8e9177df46f7a4e6497cd783a0df57b.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 27,
+            "titulo": "Show de Maiara e Maraisa é interrompido às pressas após confusão e tiroteio",
+            "sub": "Assustadas, as irmãs saíram do palco e não retornaram mais.",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/jpeg/be229068aa160e9e52ca9f087676b81f.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 28,
+            "titulo": "Final da Copa do Mundo entre França e Argentina trará uma batalha de gigantes",
+            "sub": "E os parisienses fazem a festa.",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/aaf2f2f4b1e7e6db45660d7ad50b7a2b.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 29,
+            "titulo": "Você é mais Sonho de Valsa ou Ouro Branco?",
+            "sub": "Pequenos prazeres.",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/post-list-image/png/837358cc54482f02818e5eddfed5c198.png",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        },
+        {
+            "id": 30,
+            "titulo": "O quanto você gosta de Natal?",
+            "sub": "Então é Natal... E o que você acha?",
+            "image": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_283,h_184/image-uploads/buzz-images/jpeg/5aa76b80b07eb4662703b81bb9f74966.jpg",
+            "autor": "Promovido por",
+            "company": "BuzzFeed" 
+        }
+    ],
+
+    "bombando": 
+    [
+        {
+            "id": 1,
+            "imagem": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-list-image/png/ab60be3b492f9d61a6073a33e6162ab3.png",
+            "titulo": "8 fatos sobre o caso Flordelis, deputada e pastora condenada por ter ordenado a morte do marido",
+            "sub": "Promovido por HBO Max"
+        },
+        {
+            "id": 2,
+            "imagem": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-list-image/gif/88393a0acaf06c8dc7782a3133f72cd4.gif",
+            "titulo": "Quanto você viveu esse ano?",
+            "sub": "Luísa Oguime - há 2 dias"
+        },
+        {
+            "id": 3,
+            "imagem": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-list-image/png/7f86247747d4fb2a9c6ab9bc3dedb03e.png",
+            "titulo": "O que as visitas não podem fazer em casa? Este é o debate do dia!",
+            "sub": "Victor Calazans - há 3 dias"
+        },
+        {
+            "id": 4,
+            "imagem": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-list-image/png/837358cc54482f02818e5eddfed5c198.png",
+            "titulo": "Você é mais sonho de Valsa ou Ouro Branco?",
+            "sub": "Victor Calazans - há 5 dias"
+        },
+        {
+            "id": 5,
+            "imagem": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-highlight-image/png/4ce56c7a1ae1c90b12a88d30a300ddca.png",
+            "titulo": "Precisamos falar sobre o suposto campeonato de punheta na UFRJ, que infelizmente foi adiado",
+            "sub": "Victor Calazans - há 7 dias"
+        }
+    ]
+}

@@ -14,12 +14,24 @@ export default function CardArticle() {
   let topicAutor = "Diego Bargas"
   let topicTime = "Há 5 horas"
   return (
-    <Card sx={{ width: 760, height: 500, marginLeft: -2, borderRadius: 2}} className={Style.cardContent}>
+    <Card sx={{ width: {
+      xs: 100,
+      sm: 650,
+      md: 720,
+      lg: 750,
+      xl: 850
+      }, height: {
+        xs: 100,
+        sm: 500,
+        md: 550,
+        lg: 550,
+        xl: 650
+      }, marginLeft: -2, borderRadius: 2}} className={Style.cardContent}>
       <CardMedia
         component="img"
         height="100%"
         image="https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_728,h_256/image-uploads/post-list-image/jpeg/b9af20d9cc9d93691894591705855d6f.jpg"
-        alt="green iguana"
+        alt=""
         sx={{padding: 2.5}}
       />
       <CardContent sx={{padding: "1rem"}}>
